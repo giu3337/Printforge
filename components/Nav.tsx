@@ -23,6 +23,7 @@ const Nav = () => {
         <p>About</p>
       </ul>
     </nav>
+    
   </header>
   );
 };
