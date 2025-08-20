@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+
+
 const Nav = () => {
   return (
     <header className="w-full bg-white">
@@ -23,7 +25,7 @@ const Nav = () => {
         <p>About</p>
       </ul>
     </nav>
-    
+
   </header>
   );
 };
